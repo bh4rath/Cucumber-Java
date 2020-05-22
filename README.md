@@ -6,4 +6,4 @@ This is a Sample Cucumber Project which i have developed after taking the "Cucum
 - Cucumber
 - TestNG
 
-Course Link - https://testautomationu.applitools.com/cucumber-java-tutorial/
+Course Link - [Cucumber with Java](https://testautomationu.applitools.com/cucumber-java-tutorial/)
